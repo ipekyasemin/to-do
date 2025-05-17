@@ -17,3 +17,4 @@ Bu proje, Python kullanarak geliştirilmiş basit ve modüler bir To-Do List (Ya
 
 1. Python 3 yüklü olduğundan emin olun. (3.6 ve üzeri önerilir)
 
+https://github.com/ipekyasemin/to-do.git
